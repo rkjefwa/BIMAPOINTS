@@ -1,0 +1,14 @@
+PROTOTYPE PLAN
+
+HARDWARE
+- Initial : Digital OCean
+- FInal : Azure
+
+SERVER
+Node on Port xxx
+
+DATABASE
+MOngo on Port xx
+
+APP
+Angular on Port xx
