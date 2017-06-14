@@ -1,0 +1,4 @@
+# BIMAPOINTS
+BIMA PROTOTYPJavBina
+
+Bimapoints
